@@ -374,7 +374,7 @@ class changeTheme {
     if (saveTheme) {
       document.body.classList.add(saveTheme + "-mode");
 
-      this.circle.style.right = saveTheme === "light" ? "-40px" : "40px";
+      this.circle.style.right = saveTheme === "light" ? "-50%" : "50%";
     }
   }
 }

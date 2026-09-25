@@ -171,27 +171,7 @@ This project serves as a foundation and practice. Future projects will include:
 
 ---
 
-## 🖼️ Screenshots
 
-> 📸 Screenshots coming soon
-
-```
-┌─────────────────────────────────────────┐
-│  🎬 DigiMovie            🌓 Dark/Light  │
-├─────────────────────────────────────────┤
-│  🔍 Search...                           │
-│                                         │
-│  ┌─────┐ ┌─────┐ ┌─────┐ ┌─────┐      │
-│  │ 🎬  │ │ 🎬  │ │ 🎬  │ │ 🎬  │      │
-│  │Movie│ │Movie│ │Movie│ │Movie│      │
-│  │ ⭐ 8 │ │ ⭐ 7 │ │ ⭐ 9 │ │ ⭐ 6 │      │
-│  └─────┘ └─────┘ └─────┘ └─────┘      │
-│                                         │
-│  Filters: [Genre ▼] [Country ▼] [Age▼] │
-│                                         │
-│                         │
-└─────────────────────────────────────────┘
-```
 
 ---
 

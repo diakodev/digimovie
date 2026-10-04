@@ -25,7 +25,6 @@
 - [Technologies Used](#-technologies-used)
 - [How to Run](#-how-to-run)
 - [Important Notes](#-important-notes)
-- [Screenshots](#-screenshots)
 - [Author](#-author)
 
 ---

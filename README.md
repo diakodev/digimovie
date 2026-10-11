@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,localStorage" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,localStorage" />
   </a>
 </p>
 
